@@ -1,0 +1,7 @@
+rootProject.name = 'GroovyBasics'
+include 'Core'
+include 'Core:fundamentals'
+findProject(':Core:fundamentals')?.name = 'fundamentals'
+include 'Core:fundamental_assignment'
+findProject(':Core:fundamental_assignment')?.name = 'fundamental_assignment'
+
