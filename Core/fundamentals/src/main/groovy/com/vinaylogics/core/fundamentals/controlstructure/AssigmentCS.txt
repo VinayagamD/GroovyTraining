@@ -1,0 +1,56 @@
+Decision making
+
+1) Check Given Number is even or odd
+2) Check String is palindrome. Eg "MALAYALAM" , "MOM", "DAD" , "TELUGU", "TAMIL", "SUBJECT"
+3) Check whether year is leap year or not
+5) Check given number is armstrong number or not
+6) Print message based on input days
+
+Iterating
+
+1) Print tables of any input number
+2) Print following patterns using loops
+
+*
+* *
+* * *
+* * * *
+* * * * *
+
+1
+1 2
+1 2 3
+1 2 3 4
+1 2 3 4 5
+
+      *
+    * * *
+  * * * * *
+* * * * * * *
+
+        1
+      2 1 2
+    3 2 1 2 3
+  4 3 2 1 2 3 4
+5 4 3 2 1 2 3 4 5
+
+       *
+     * * *
+   * * * * *
+ * * * * * * *
+   * * * * *
+     * * *
+       *
+*
+  *
+    *
+      *
+        *
+          *
+
+
+         *
+       *
+     *
+   *
+ *
